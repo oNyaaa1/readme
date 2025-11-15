@@ -18,4 +18,4 @@ GLua, Lua, C++, C, C#, Java, SQL (MySQL, MsSQL)
 VB, Javascript, PHP, HTML, CSS
 
 Taking commissions for GLUA!
-Contact me here on discord: _times2_
+Contact me here on discord: ```_times2_```
