@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👨‍💻 Been programming for over 20+ years!
+- 👨‍💻 Been programming for over 3+ years!
 
 Some of my older projects can be found on GitHub.
 
